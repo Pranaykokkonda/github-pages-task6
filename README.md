@@ -31,10 +31,10 @@ Access the live static website below:
 ## ✅ Deliverables
 - Click on below blocks to visit the Static Website and GitHub Repository
 <p align="left">
-  <a href="https://www.website.com" target="_blank">
+  <a href="https://pranaykokkonda.github.io/github-pages-task6/" target="_blank">
     <img src="https://img.shields.io/badge/Static%20Website-007BFF?style=for-the-badge&logo=githubpages&logoColor=white" alt="Static Website Badge" />
   </a>
-  <a href="https://github.com" target="_blank">
+  <a href="https://github.com/Pranaykokkonda/github-pages-task6" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-007BFF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
   </a>
 </p>
